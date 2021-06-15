@@ -1,1 +1,1 @@
-# multiclasssgarbageclassifier
+# multi-classs Garbageclassifier
