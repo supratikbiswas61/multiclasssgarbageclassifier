@@ -1,18 +1,11 @@
-# Multi-Class GARBAGE CLASSIFIER
+# Multi-Class GARBAGE CLASSIFIER (CNN)
 
-![image](https://user-images.githubusercontent.com/75847799/131217429-a833edc5-8ad4-4b5c-98ea-48f819e6543b.png)
+Waste sorting is the process by which waste is separated into different elements. Waste sorting can occur manually at the household and collected through curbside collection schemes, or automatically separated in materials recovery facilities or mechanical biological treatment systems.seperation of garbage have been a major issue of the 21st century.In this project using CNN we have created a waste sorting system that is trained to recognise the image and sort the waste as per its category.
 
 # DATA:
-
 The Garbage Classification Dataset contains 6 classifications: cardboard (393), glass (491), metal (400), paper(584), plastic (472) and trash(127).
 
 # How to run:
-
-
-
-# About the project:
-
-In this 
 
 
 
