@@ -1,4 +1,4 @@
-## multi-classs Garbageclassifier
+# Multi-Class GARBAGE CLASSIFIER
 
 ![image](https://user-images.githubusercontent.com/75847799/131217429-a833edc5-8ad4-4b5c-98ea-48f819e6543b.png)
 
