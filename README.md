@@ -1,5 +1,21 @@
-# multi-classs Garbageclassifier
+## multi-classs Garbageclassifier
 
-DATA![image](https://user-images.githubusercontent.com/75847799/131217267-533cb2a2-d722-4473-9134-846f80310d5f.png)
+![image](https://user-images.githubusercontent.com/75847799/131217429-a833edc5-8ad4-4b5c-98ea-48f819e6543b.png)
+
+# DATA:
+
 The Garbage Classification Dataset contains 6 classifications: cardboard (393), glass (491), metal (400), paper(584), plastic (472) and trash(127).
-![image](https://user-images.githubusercontent.com/75847799/131217277-8d301d2a-0211-49ab-81ea-ee6bcbdaeec8.png)
+
+# How to run:
+
+
+
+# About the project:
+
+In this 
+
+
+
+# Evaluating the model :
+After training our model for 30 epocs the accuracy comes to 0.9980 which is pretty amazing.This should mostly be because of the size of our data which is pretty small.Cnn is a very data hungry model but as we were getting a very high accuracy, we did not augment our data.
+
