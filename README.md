@@ -6,8 +6,18 @@ Waste sorting is the process by which waste is separated into different elements
 The Garbage Classification Dataset contains 6 classifications: cardboard (393), glass (491), metal (400), paper(584), plastic (472) and trash(127).
 
 ## How to run:
+Libraries needed :
+Werkzeug
+numpy
+keras_nightly
+Flask
+keras
+tensorflow
 
+Fire up CMD > After cd to the desired folder > run this command > git clone {my git repo link} 
 
+## ABOUT THE MODEL
+After multiple trial and error we developed a 10 layer CNN model.
 
 ## Evaluating the model :
 After training our model for 30 epocs the accuracy comes to 0.9980 which is pretty amazing.This should mostly be because of the size of our data which is pretty small.Cnn is a very data hungry model but as we were getting a very high accuracy, we did not augment our data.
